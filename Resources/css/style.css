@@ -10,6 +10,7 @@
 /* This is the Main Section */
 h1 {
   font-size: 50px;
+  font-weight: normal;
 }
 
 .link {
