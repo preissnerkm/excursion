@@ -7,23 +7,27 @@
   color: white;
 }
 
-/* This is the Headline Section */
-#discover h1 {
-  font-weight: normal;
+/* This is the Main Section */
+h1 {
   font-size: 50px;
 }
-#discover a {
+
+.link {
   color: aquamarine;
   font-size: 16px;
 }
 
-/* This is the personal section */
-#personal h1 {
+/* This is the Support section */
+h2 {
   font-weight: 300;
   font-size: 42px;
 }
-#personal p {
+p {
     font-size: 21px;
     color: gray;
-  }
+}
+
+/* This is the close */
+.copy {
+  text-align: right;
 }
